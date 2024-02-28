@@ -1,13 +1,13 @@
-touch file4
+touch file8
 git add .
 git commit -m "commit"
 
-touch file5
+touch file10
 git add .
 git commit -m "second commit"
 
 
-touch file6
+touch file15
 git add .
 git commit -m "third commit"
 
